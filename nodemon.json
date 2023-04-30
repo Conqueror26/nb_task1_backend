@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "conqueror",
+    "MONGO_PASSWORD": "1234",
+    "MONGO_DB": "events-react-dev"
+  }
+}
